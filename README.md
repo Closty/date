@@ -7,7 +7,7 @@
 [原作者](https://github.com/edent)的svg格式：https://shkspr.mobi/svg/calendar.svg
 
 ## 快速部署
-新建一个网站，将[代码中的部分](https://github.com/Closty/date/blob/master/canlender.html)复制粘贴到你的index.html即可。
+新建一个网站，将[代码中的部分](https://github.com/Closty/date/blob/master/index.html)复制粘贴到你的index.html即可。
 
 ## 其他说明
 由于是纯静态网站，你可以运用cf-workers、github page、netfly、vercel等实现无服务器搭建。

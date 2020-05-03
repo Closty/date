@@ -3,8 +3,9 @@
 
 
 ## 演示网址
-由于php格式更加先进，现已转换php在线日历，由本人服务器支撑。
+由于php格式更加先进，现已转换php在线日历，由本人服务器支撑。<br>
 php格式：https://date.clost.net<br>
+或使用由linmi服务器支持的php格式：https://linmi.cc/calendar<br>
 [原作者](https://github.com/edent)的svg格式：https://shkspr.mobi/svg/calendar.svg
 
 

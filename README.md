@@ -9,7 +9,7 @@ php格式：https://date.clost.net<br>
 
 
 ## 快速部署
-新建一个网站，将[代码中的部分](https://github.com/Closty/date/blob/master/index.html)复制粘贴到你的index.html即可。
+新建一个网站，将代码中的部分复制粘贴到你的index.html即可。或者插入我的链接https://date.clost.net 即可使用
 
 ## 其他说明
 由于是纯静态网站，你可以运用cf-workers、github page、netfly、vercel等实现无服务器搭建。
